@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Sutarimran47@gmail.com**
 
-- Portfolio => https://github.com/Imran2909
+- Portfolio => https://imran2909.github.io/
 
 <br><br>
 
