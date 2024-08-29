@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Sutarimran47@gmail.com**
 
-- Portfolio => https://imran2909.github.io/
+- Portfolio => (https://imran-sutar.netlify.app/)
 
 <br><br>
 
