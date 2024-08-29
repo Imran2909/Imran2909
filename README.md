@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4E16AQH0L3jGZ6X_9A/profile-displaybackgroundimage-shrink_350_1400/0/1674559672070?e=1684368000&v=beta&t=0wd3l1uX3Pi3mhLPGmDM5ARb2RFQonUotV8HLleSATM)
+![logo]([https://media.licdn.com/dms/image/D4E16AQH0L3jGZ6X_9A/profile-displaybackgroundimage-shrink_350_1400/0/1674559672070?e=1684368000&v=beta&t=0wd3l1uX3Pi3mhLPGmDM5ARb2RFQonUotV8HLleSATM](https://www.canva.com/design/DAGOkVG6i6s/q7hxi1wyUQ8t-1qh1VMDFQ/view?utm_content=DAGOkVG6i6s&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 <h1 align="center">Hi 👋, I'm Imran Sutar</h1>
 <h3 align="center"> 
   <img src="https://camo.githubusercontent.com/fffe3693d44b6b05cb4b79cdf000a8094f38eafdb1b3ab1d3e05eacc60ba6fbd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d636f6d666f7274616126636f6c6f723d3031364545412673697a653d32342677696474683d353030266c696e65733d43757272656e746c792b4c6561726e696e672b46756c6c2d537461636b2b5765622b446576656c6f706d656e743b4f70656e2d536f757263652b446576656c6f7065723b4e6963652b746f2b6d6565742b796f752e2e2e" alt="" style="margin-left: -340px; font-size: 22px;">
